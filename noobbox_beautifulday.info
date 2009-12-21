@@ -1,0 +1,13 @@
+name = Beautiful Day
+screenshot = screenshot.png
+description = Beautiful Day theme by Arcsin.com. Ported to Drupal by Noobbox.com
+version = VERSION
+core = 6.x
+engine = phptemplate
+stylesheets[all][] = style.css
+stylesheets[print][] = print.css
+regions[right] = Right sidebar
+regions[content] = Content
+regions[header] = Header
+regions[footer] = Footer
+regions[rightbox] = Right box
