@@ -1,6 +1,6 @@
 name = Beautiful Day
 screenshot = screenshot.png
-description = Beautiful Day theme by Arcsin.com. Ported to Drupal by Noobbox.com
+description = Beautiful Day theme by Arcsin.se. Ported to Drupal by Noobbox.com
 version = VERSION
 core = 6.x
 engine = phptemplate
